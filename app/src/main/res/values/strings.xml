@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes+Camera_DaggerMVVM</string>
+    <string name="action_delete_all">Delette all notes</string>
+    <string name="hint_note">Note…</string>
+    <string name="button_save">Save</string>
+    <string name="not_updated">Note cannot be updated</string>
+    <string name="empty_not_created">Note creation canceled</string>
+    <string name="empty_not_changed">Note changes canceled</string>
+</resources>
