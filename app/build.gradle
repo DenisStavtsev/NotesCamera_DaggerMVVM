@@ -67,6 +67,7 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.2.0'
     testImplementation 'androidx.test.ext:junit:1.1.0'
     testImplementation 'androidx.test.ext:truth:1.1.0'
+    testImplementation "io.mockk:mockk:1.9.3"
     // for https://developer.android.com/training/testing/junit-runner#app-context
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
     androidTestImplementation 'androidx.test.ext:truth:1.1.0'
@@ -74,6 +75,7 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestUtil 'androidx.test:orchestrator:1.1.1'
     androidTestImplementation 'androidx.arch.core:core-testing:2.0.0'
+
 
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.3.1'

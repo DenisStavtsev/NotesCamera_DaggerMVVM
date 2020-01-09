@@ -23,7 +23,7 @@ abstract class NoteDatabase:RoomDatabase() {
                 INSTANCE
                     ?: buildDatabase(
                         context
-                    ).also { INSTANCE = it}
+                    ).also { INSTANCE = it }
             }
 
         private fun buildDatabase(context: Context) =

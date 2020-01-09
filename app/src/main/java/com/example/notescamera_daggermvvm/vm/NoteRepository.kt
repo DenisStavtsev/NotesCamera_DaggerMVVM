@@ -81,4 +81,3 @@ class NoteRepository @Inject constructor(private val noteDao: NoteDao) {
 
     }
 }
-
